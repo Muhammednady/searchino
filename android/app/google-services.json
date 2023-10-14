@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569987428108",
+    "project_id": "searchino-e832b",
+    "storage_bucket": "searchino-e832b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569987428108:android:dda7eb751d939f77a46329",
+        "android_client_info": {
+          "package_name": "com.example.searchino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569987428108-bhfddft3bol6fcqossdql7nrtpjg7tqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19NGW-1GoxZWh1lwp59G6Ixh_HdycxRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569987428108-bhfddft3bol6fcqossdql7nrtpjg7tqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
